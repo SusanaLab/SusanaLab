@@ -1,16 +1,6 @@
-### Hi there 👋
+Front-end Developer 
+web developer 
+ I’m currently learning on Laboratoria
+https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.cursosgis.com%2Fcomo-integramos-los-lenguajes-html-css-y-javascript%2F&psig=AOvVaw1YJtNDh60YxP5cmh926oJ9&ust=1635294960982000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjamM3q5vMCFQAAAAAdAAAAABAI
+ I’m looking to learn.
 
-<!--
-**SusanaLab/SusanaLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning on Laboratoria
-- 👯 I’m looking to learn.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
