@@ -2,7 +2,7 @@
 
 
 
-  <p align="center" height = 126px>  I’m currently learning </p>
+  <p align="center" height = 126px>  Frontend Developer </p>
   
   <p align="center">
   <img width="256" height="116" src="https://res.cloudinary.com/practicaldev/image/fetch/s--a6QQg4wP--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/4q95mlbs4tzvi4gwm692.png">
