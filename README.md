@@ -12,7 +12,7 @@
   <p align="center" height = 126px>  on </p>                
                                                        
 <p align="center">
-  <img width="156" height="96" src="https://user-images.githubusercontent.com/86276089/138789757-34f2e4db-3fc8-46b2-b8c5-961dc09cd2fb.png">
+  <img width="150" height="96" src="https://user-images.githubusercontent.com/86276089/138789757-34f2e4db-3fc8-46b2-b8c5-961dc09cd2fb.png">
 </p>
   
 
