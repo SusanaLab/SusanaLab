@@ -1,9 +1,5 @@
 <img src="https://user-images.githubusercontent.com/86276089/139567519-cdd4b09f-8082-4205-8353-0dbdeea16dff.png" width="1056" height="500" align="center" title="Github Logo">
 
-
-
-  <h1 align="center" height = 200px>  Frontend Developer </h1>
-
   <h2 align="center" height = 126px>  on </h2>                
                                                        
 <p align="center">
