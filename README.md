@@ -18,6 +18,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanaLab&show_icons=true&theme=tokyonight)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&theme=blue-green)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/SusanaLab)
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
