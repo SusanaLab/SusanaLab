@@ -14,6 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 ###  Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&theme=dracula)
+## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=dracula)
  <h2 align="center" height = 126px>  Tecnologias  </h2>   
  <div justify-content = center>
