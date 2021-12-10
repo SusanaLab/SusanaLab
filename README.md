@@ -8,9 +8,12 @@
 <h3 align="center" height = 126px> Soy una persona amante del conocimiento me encanta aprender de todo, en un inicio con un background en Relaciones Comerciale y ahora en TI donde he logrado encontrar mi nuevo mundo en el cual se puede crear y aprender sin limites. </h3> 
 
 ## Mis estadisticas 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanaLab&show_icons=true&theme=dracula)
 ###  Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanaLab&show_icons=true&theme=highcontrast)](https://github.com/MelLeyva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/MelLeyva/github-readme-stats)
+
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=dracula)
  <h2 align="center" height = 126px>  Tecnologias  </h2>   
