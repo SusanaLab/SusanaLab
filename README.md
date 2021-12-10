@@ -18,12 +18,9 @@
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SusanaLab&show_icons=true)
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&theme=tokyonight)
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=SusanaLab&theme=tokyonigh)
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&theme=dracula)
 ## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=tokyonigh)
+![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=dracula)
 
 
 
