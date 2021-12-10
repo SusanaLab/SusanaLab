@@ -12,7 +12,7 @@
 ###  Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab=compact&show_icons=true&theme=highcontrast
-" width="1056" height="500" align="center" title="Github Logo">
+" width="400" height="200" align="center">
 
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=dracula)
