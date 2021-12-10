@@ -21,7 +21,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&theme=dracula)
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=dracula)
-![alt text](https://saasrank.es/wp-content/uploads/2020/08/Figma-Logo-v2.jpg)
+<img src="https://saasrank.es/wp-content/uploads/2020/08/Figma-Logo-v2.jpg" width="50" height="50" align="center" title="Github Logo">
 
 
 
