@@ -10,9 +10,7 @@
 ## Mis estadisticas 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanaLab&show_icons=true&theme=dracula)
 ###  Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab=compact&show_icons=true&theme=highcontrast
-" width="400" height="200" align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&layout=compact&show_icons=true&theme=dracula)](https://github.com/MelLeyva/github-readme-stats)
 
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=dracula)
