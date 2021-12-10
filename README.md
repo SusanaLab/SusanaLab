@@ -5,7 +5,8 @@
 <p align="center">
   <img width="150" height="110" src="https://user-images.githubusercontent.com/86276089/138789757-34f2e4db-3fc8-46b2-b8c5-961dc09cd2fb.png">
 </p>
-<h3 align="center" height = 126px>  on </h3>                
+<h3 align="center" height = 126px> Soy una persona amante del conocimiento me encanta aprender de todo, en un inicio con un background en Relaciones Comerciale y ahora en TI donde he logrado mi nuevo mundo donde se puede crear y aprender sin limites. </h3> 
+
 ## Mis estadisticas 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 ###  Languages
