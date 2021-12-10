@@ -16,7 +16,7 @@
 </p>
 
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SusanaLab&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&theme=dracula)
 ## 5. Profile View Counter
