@@ -17,6 +17,6 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanaLab)](https://github.com/SusanaLab/github-readme-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanaLab&count_private=true)
 
 
