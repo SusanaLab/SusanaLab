@@ -21,9 +21,11 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&theme=dracula)
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=dracula)
-<img src="https://saasrank.es/wp-content/uploads/2020/08/Figma-Logo-v2.jpg" width="50" height="50" align="center" title="Github Logo">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJXb69I_ibRsIqxCsHx96k4p3Y37woO9S85HE0nzwrPH9qLy0ahwS1G6IgPLVZUhEKr4&usqp=CAU" width="50" height="50" align="center" title="Github Logo">
-<img src="https://www.gstatic.com/devrel-devsite/prod/v0009e14c1212eb34a833a614ba55cbefddb8efdabe01fcac037dbc181c8c3153/firebase/images/touchicon-180.png" width="50" height="50" align="center" title="Github Logo">
-<img src="" width="50" height="50" align="center" title="Github Logo">
-<img src="" width="50" height="50" align="center" title="Github Logo">
-<img src="" width="50" height="50" align="center" title="Github Logo">
+<img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" width="50" height="50" align="center" title="figma">
+<img src="https://img2.freepng.es/20180418/siw/kisspng-github-pages-random-icons-5ad6e9863397c7.5716118315240339262113.jpg" width="50" height="50" align="center" title="Github Logo">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v0009e14c1212eb34a833a614ba55cbefddb8efdabe01fcac037dbc181c8c3153/firebase/images/touchicon-180.png" width="50" height="50" align="center" title="firebase">
+<img src="https://img2.freepng.es/20180429/www/kisspng-javascript-logo-html-comment-blog-5ae63c22d40699.0773573515250381148685.jpg" width="50" height="50" align="center" title="Github Logo">
+<img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design.png" width="50" height="50" align="center" title="Github Logo">
+<img src="https://www.google.com/search?q=logo%20html&tbm=isch&hl=es-419&sa=X&ved=0CB0QtI8BKABqFwoTCNDrlIrZ2fQCFQAAAAAdAAAAABAG&biw=1349&bih=625#imgrc=r23f5THJx-OHoM" width="50" height="50" align="center" title="Github Logo">
+<img src="https://img2.freepng.es/20180507/oqw/kisspng-react-javascript-library-github-backbone-5af0ed697cf665.2293214715257388575119.jpg" width="50" height="50" align="center" title="Github Logo">
+<img src="http://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-trello-icon.png" width="50" height="50" align="center" title="Github Logo">
