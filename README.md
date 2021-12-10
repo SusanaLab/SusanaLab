@@ -31,4 +31,4 @@
 
 <img src="http://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-trello-icon.png" width="50" height="50" align="center" title="Github Logo">
 <img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" width="50" height="50" align="center" title="figma">
-- [Email](mailto:susanlevart@gmail.com?subject=Hi% "Hi!")
+
