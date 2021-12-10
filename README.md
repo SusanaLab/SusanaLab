@@ -28,6 +28,6 @@
 <img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design.png" width="50" height="50" align="center" title="Github Logo">
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50" height="50" align="center" title="Github Logo">
 <img src="https://img2.freepng.es/20180507/oqw/kisspng-react-javascript-library-github-backbone-5af0ed697cf665.2293214715257388575119.jpg" width="50" height="50" align="center" title="Github Logo">
-## Tecnologias 
+## Herramientas
 <img src="http://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-trello-icon.png" width="50" height="50" align="center" title="Github Logo">
 <img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" width="50" height="50" align="center" title="figma">
