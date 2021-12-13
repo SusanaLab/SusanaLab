@@ -27,4 +27,4 @@
  <h2 align="center" height = 126px>  Herramientas </h2>   
 <img src="http://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-trello-icon.png" width="50" height="50" align="center" title="Github Logo">
 <img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" width="50" height="50" align="center" title="figma">
-
+https://activity-graph.herokuapp.com/graph?username=angieventa&theme=react-dark
