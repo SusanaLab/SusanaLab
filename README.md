@@ -1,30 +1,27 @@
-<img src="https://user-images.githubusercontent.com/86276089/139567519-cdd4b09f-8082-4205-8353-0dbdeea16dff.png" width="1056" height="500" align="center" title="Github Logo">
+<h1 align="center">Hi 👋, I'm Susana García</h1>
+<h3 align="center">A passionate frontend developer from México</h3>
 
-  <h2 align="center" height = 126px>  on </h2>                
-                                                       
-<p align="center">
-  <img width="150" height="110" src="https://user-images.githubusercontent.com/86276089/138789757-34f2e4db-3fc8-46b2-b8c5-961dc09cd2fb.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susanalab&label=Profile%20views&color=0e75b6&style=flat" alt="susanalab" /> </p>
+
+- 🌱 I’m currently learning **Typescript**
+
+- 👨‍💻 All of my projects are available at [https://susana-garcia-dev.netlify.app/](https://susana-garcia-dev.netlify.app/)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **susana.garcia.dev@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/susana-front-end-uiux/](https://www.linkedin.com/in/susana-front-end-uiux/)
+
+- ⚡ Fun fact **I'm a nature enthusiast at heart 🌿**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/susana-front-end-uiux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susana-front-end-uiux" height="30" width="40" /></a>
+<a href="https://www.behance.net/susanagarcia37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="susanagarcia37" height="30" width="40" /></a>
 </p>
-<h3 align="center" height = 126px> Soy una persona amante del conocimiento me encanta aprender de todo, en un inicio con un background en Relaciones Comerciales y ahora en TI donde he logrado encontrar mi nuevo mundo en el cual se puede crear y aprender sin limites. </h3> 
 
-## Mis estadisticas 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanaLab&show_icons=true&theme=dracula)
-###  Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaLab&layout=compact&show_icons=true&theme=dracula)](https://github.com/MelLeyva/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=SusanaLab&theme=dracula)
- <h2 align="center" height = 126px>  Tecnologias  </h2>   
- <div justify-content = center align="center">
-<img src="https://img2.freepng.es/20180418/siw/kisspng-github-pages-random-icons-5ad6e9863397c7.5716118315240339262113.jpg" width="50" height="50" align="center" title="Github Logo">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9G-TGX1AQM4dXJoVa0577IbgDdo7N5w4NcG6FPHIrqC3zax3QYhbmMayk2CQEe3F_ee0&usqp=CAU" width="50" height="50" align="center" title="firebase">
-<img src="https://img2.freepng.es/20180429/www/kisspng-javascript-logo-html-comment-blog-5ae63c22d40699.0773573515250381148685.jpg" width="50" height="50" align="center" title="Github Logo">
-<img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design.png" width="50" height="50" align="center" title="Github Logo">
-<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50" height="50" align="center" title="Github Logo">
-<img src="https://img2.freepng.es/20180507/oqw/kisspng-react-javascript-library-github-backbone-5af0ed697cf665.2293214715257388575119.jpg" width="50" height="50" align="center" title="Github Logo">
-  <img src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE.jpg" width="50" height="50" align="center" title="Github Logo">
-  <div/>
- <h2 align="center" height = 126px>  Herramientas </h2>   
-<img src="http://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-trello-icon.png" width="50" height="50" align="center" title="Github Logo">
-<img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" width="50" height="50" align="center" title="figma">
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susanalab&show_icons=true&locale=en&layout=compact" alt="susanalab" /></p>
