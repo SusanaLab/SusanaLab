@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Susana García</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h1 align="center" style="color:#7A6FE0;">Hi 👋, I'm Susana García</h1>
+
+<span align="center"  style="color:#7A6FE0;" ><h3 align="center">A passionate frontend developer from México</h3></span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanalab&label=Profile%20views&color=0e75b6&style=flat" alt="susanalab" /> </p>
 
