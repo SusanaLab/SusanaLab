@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanalab&label=Profile%20views&color=0e75b6&style=flat" alt="susanalab" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at [https://susana-garcia-dev.netlify.app/](https://susana-garcia-dev.netlify.app/)
 
 - 💬 Ask me about **React**
